@@ -41,21 +41,21 @@
     <tspan x="15" y="610"> .==#%@-##%**#=:@%*#=*+**@@@*****#**##*=**@@.**%+#@@+@@#@@*@ </tspan>
     <tspan x="15" y="630">..*#@*=-@%***+-=@*#*-*#=. .#%#++*#*#####@@@ +%*@**@#=#%#*@*# </tspan>
   </text>
-  <text x="370" y="30" fill="#c9d1d9">
-    <tspan x="370" y="30">rylen@anil</tspan>
-    <tspan x="370" y="50">——————</tspan>
-    <tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, iOS</tspan>
-    <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">15 Years</tspan>
-    <tspan x="370" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">JSS Private School</tspan>
-    <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Dubai</tspan>
-    <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.94</tspan>
-    <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, JavaScript</tspan>
-    <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, Markdown</tspan>
-    <tspan x="370" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi, Malayalam</tspan>
-    <tspan x="370" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Coding websites, Making AI</tspan>
-    <tspan x="370" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Server development, PC upgrading</tspan>
-    <tspan x="370" y="330" class="keyColor">Contact</tspan>: <tspan x="370" y="350">——————</tspan>
-    <tspan x="370" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">rylenanil22@gmail.com</tspan>
-    <tspan x="370" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Rylen Anil</tspan>
+  <text x="370" y="620" fill="#c9d1d9"> <!-- Moved down to avoid overlap -->
+    <tspan x="370" y="620">rylen@anil</tspan>
+    <tspan x="370" y="640">——————</tspan>
+    <tspan x="370" y="660" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, iOS</tspan>
+    <tspan x="370" y="680" class="keyColor">Uptime</tspan>: <tspan class="valueColor">15 Years</tspan>
+    <tspan x="370" y="700" class="keyColor">Host</tspan>: <tspan class="valueColor">JSS Private School</tspan>
+    <tspan x="370" y="720" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Dubai</tspan>
+    <tspan x="370" y="740" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.94</tspan>
+    <tspan x="370" y="760" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, JavaScript</tspan>
+    <tspan x="370" y="780" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, Markdown</tspan>
+    <tspan x="370" y="800" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi, Malayalam</tspan>
+    <tspan x="370" y="820" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Coding websites, Making AI</tspan>
+    <tspan x="370" y="840" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Server development, PC upgrading</tspan>
+    <tspan x="370" y="860" class="keyColor">Contact</tspan>: <tspan x="370" y="880">——————</tspan>
+    <tspan x="370" y="900" class="keyColor">Email</tspan>: <tspan class="valueColor">rylenanil22@gmail.com</tspan>
+    <tspan x="370" y="920" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Rylen Anil</tspan>
   </text>
 </svg>
