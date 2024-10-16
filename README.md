@@ -1,18 +1,18 @@
                                     .::-     .:=.                                                            Rylen@Anil
-                                         * .:=@%=-%@@@@@@*@@#-                                               <span style="color: #8be9fd">OS</span>: Windows 11 
-                                    -+-==+%%@@@@@@@@@@@@@#@=#*#=                                             <span style="color: #ffb86c">Uptime</span>: 15 Years  
-                                  +%@-@@@@@@@@@@@%@@@@@@@@@@@%*@#                                            <span style="color: #bd93f9">Host</span>: JSS Private School  
-                                  .@%@@@@@@@@@@@@@@@@@@@@@@@@@**:                                            <span style="color: #50fa7b">Kernel</span>: Dubai  
-                                    *#+@:@@@@@@@@@@@%%%@@@@@@@@+                                             <span style="color: #ff79c6">IDE</span>: VSCode 1.94  
+                                         * .:=@%=-%@@@@@@*@@#-                                              <p><span style="color: #8be9fd">OS</span>: Windows 11 </p>
+                                    -+-==+%%@@@@@@@@@@@@@#@=#*#=                                             <p><span style="color: #ffb86c">Uptime</span>: 15 Years</p>  
+                                  +%@-@@@@@@@@@@@%@@@@@@@@@@@%*@#                                            <p><span style="color: #bd93f9">Host</span>: JSS Private School</p>  
+                                  .@%@@@@@@@@@@@@@@@@@@@@@@@@@**:                                            <p><span style="color: #50fa7b">Kernel</span>: Dubai</p>  
+                                    *#+@:@@@@@@@@@@@%%%@@@@@@@@+                                             <p><span style="color: #ff79c6">IDE</span>: VSCode 1.94</p>  
                                     =@@@@@#+=++**++*+=++*@@@@@*                                              
                                     *@=    ...+**#**%@@@@#-@@@+                                              
-                                     % @@@@@@@@@@@@@@#+---+:*@@                                              <span style="color: #f1fa8c">Languages Programming</span>: Python, JavaScript  
-                                    .@ .#@@@@@@%%@@@@@@@@@@@:@@.           +@*                               <span style="color: #ff5555">Languages Computer</span>: HTML, CSS  
-                                    .@ +.:@@@@  +#*#*=***:.:.@##          ++@@                               <span style="color: #bd93f9">Languages Real</span>: English, Hindi, Malayalam  
+                                     % @@@@@@@@@@@@@@#+---+:*@@                                              <p><span style="color: #f1fa8c">Languages Programming</span>: Python, JavaScript</p>  
+                                    .@ .#@@@@@@%%@@@@@@@@@@@:@@.           +@*                               <p><span style="color: #ff5555">Languages Computer</span>: HTML, CSS</p>  
+                                    .@ +.:@@@@  +#*#*=***:.:.@##          ++@@                               <p><span style="color: #bd93f9">Languages Real</span>: English, Hindi, Malayalam</p>  
                                      @ -*+-=@.  @+ .:@*++*#*-@@.         =*%@@.                              
-                                      .-@@@@@.@@%@@@@@@@%%@@@#.           -%@@@.                             <span style="color: #50fa7b">Hobbies</span>: CyberSecurity, Games  
+                                      .-@@@@@.@@%@@@@@@@%%@@@#.           -%@@@.                             <p><span style="color: #50fa7b">Hobbies</span>: CyberSecurity, Games</p>  
                                      .==*@@* +@@@@@**#%@@@%@%*             #%@@*                             
-                                        -@@@@.  =+++*#@@@%#=:.             =-*%@+                            <span style="color: #ff79c6">Contact</span>: rylenanil22@gmail.com  
+                                        -@@@@.  =+++*#@@@%#=:.             =-*%@+                            <p><span style="color: #ff79c6">Contact</span>: rylenanil22@gmail.com</p>  
                                           ++:#@@@@@@@@%#*##-                -@@@@@.                          
                                           .+:: .####++*#%@@@              :.:. . -#-                         
                                            +@%+*@@%%%@@@@@@@    :--:..:=+*@@@@@@%*+=.                        
