@@ -1,62 +1,72 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="1200px" height="650px" viewBox="0 0 1200 650" font-size="16px">
-  <style>
-    .keyColor { fill: #ffa657; }
-    .valueColor { fill: #a5d6ff; }
-    .addColor { fill: #3fb950; }
-    .delColor { fill: #f85149; }
-    .commentColor { fill: #8b949e; }
-    text, tspan { white-space: pre; }
-  </style>
-  <rect width="1200px" height="650px" fill="#161b22" rx="15" />
-  <text x="15" y="30" fill="#c9d1d9" class="ascii">
-    <tspan x="15" y="30">                            @@@@@ #@@ .                       </tspan>
-    <tspan x="15" y="50">                  @+ . -@@##*=%@@@@@@@@@@@@@*                </tspan>
-    <tspan x="15" y="70">                  *@@@@@@@@@@@%#%@#@@@@@@@@@@*.              </tspan>
-    <tspan x="15" y="90">                =@@@@@@@@@%@@@@@@@@@@@%@%%%@@@%.             </tspan>
-    <tspan x="15" y="110">               .@@@@@@@@%@@@@@@@@@@@%@%#%@%*+@#*             </tspan>
-    <tspan x="15" y="130">                @@@@@@@@@@@@@#=@@@#%@@@@@@@@@@@+             </tspan>
-    <tspan x="15" y="150">               @@*@@@@@**====+++-+#@@@@@@@@@@@%.             </tspan>
-    <tspan x="15" y="170">               +@@@%@%@@*=-+++++*+=---#@@@@@%@@.             </tspan>
-    <tspan x="15" y="190">               .@@@@@*+**%#%%%@%%#%###%+:#@@@@@              </tspan>
-    <tspan x="15" y="210">                @@@%=+*#*###%#####**++=-==%@@%%              </tspan>
-    <tspan x="15" y="230">                @@@+=##+:..:..-.-.. .*@@@-=@@%               </tspan>
-    <tspan x="15" y="250">                @@#+@@@@@@@@%%**#@@@@@%#@@%@@.               </tspan>
-    <tspan x="15" y="270">                @@++*=+*+@@@@@*+@%@#@@@*#-:@@.               </tspan>
-    <tspan x="15" y="290">                =@*@@@@%@@ +@@@%@@#.%@+@@%+@+.               </tspan>
-    <tspan x="15" y="310">                =@=   @@@@@@@@**#@@%@@@@@%%@%=               </tspan>
-    <tspan x="15" y="330">                .@:*+:=+=:=#@@##@@#:.:-+===*#.               </tspan>
-    <tspan x="15" y="350">                 *+#%%*-::#@@#+=+#@@+::..=+++                </tspan>
-    <tspan x="15" y="370">                 =%%+*=:-=@..-. .-:=#++-=++#=                </tspan>
-    <tspan x="15" y="390">                  +@%#@@@@@@@@@@@@@@@%@@@#%@-                </tspan>
-    <tspan x="15" y="410">                   =@#%@@*++*+*++**#@@@@-=%.                 </tspan>
-    <tspan x="15" y="430">                   .-%+=@@@@@%*#=-+*%@+=+#:.                 </tspan>
-    <tspan x="15" y="450">                    .-%##*%@*##%%@@@@++=+:.                  </tspan>
-    <tspan x="15" y="470">                     :@%%##%%@@@%##%**#**                    </tspan>
-    <tspan x="15" y="490">                      @%#%%%%##***#**%@@%                    </tspan>
-    <tspan x="15" y="510">                 ..  -@@@@##*+*****#@@#***                   </tspan>
-    <tspan x="15" y="530">                 .#=*@%#%##@@@@@@@@#***%@#@@                 </tspan>
-    <tspan x="15" y="550">           . =####*+-@%##***#********#%%%+@@*%@=             </tspan>
-    <tspan x="15" y="570">        .++@@%#=*#**-@@@@%########*+#%@%#:%@:*%#%%%@.        </tspan>
-    <tspan x="15" y="590">  .+#+@+*+#@*#+:%#==+=@@@@%#####%##*###*+=@@ ####%@@##@@@+   </tspan>
-    <tspan x="15" y="610"> .==#%@-##%**#=:@%*#=*+**@@@*****#**##*=**@@.**%+#@@+@@#@@*@ </tspan>
-    <tspan x="15" y="630">..*#@*=-@%***+-=@*#*-*#=. .#%#++*#*#####@@@ +%*@**@#=#%#*@*# </tspan>
-  </text>
-  <text x="500" y="30" fill="#c9d1d9">
-    <tspan x="500" y="30">rylen@anil</tspan>
-    <tspan x="500" y="50">——————</tspan>
-    <tspan x="500" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Fedora Linux, iOS</tspan>
-    <tspan x="500" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">15 years</tspan>
-    <tspan x="500" y="110" class="keyColor">Host</tspan>: <tspan class="valueColor">JSS Private School</tspan><tspan class="commentColor"></tspan>
-    <tspan x="500" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Software and AI development</tspan><tspan class="commentColor"></tspan>
-    <tspan x="500" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">VSCode 1.94.0</tspan>
-    <tspan x="500" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, JavaScript</tspan>
-    <tspan x="500" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, Markdown</tspan>
-    <tspan x="500" y="230" class="keyColor">Languages</tspan>.<tspan class="keyColor">Real</tspan>: <tspan class="valueColor">English, Hindi, Malayalam</tspan>
-    <tspan x="500" y="270" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Software</tspan>: <tspan class="valueColor">Software and website building, AI development</tspan>
-    <tspan x="500" y="290" class="keyColor">Hobbies</tspan>.<tspan class="keyColor">Hardware</tspan>: <tspan class="valueColor">Server Building, computer Upgrading</tspan>
-    <tspan x="500" y="330" class="keyColor">Contact</tspan>:
-    <tspan x="500" y="350">——————</tspan>
-    <tspan x="500" y="370" class="keyColor">Email</tspan>: <tspan class="valueColor">Rylenanil22@gmail.com</tspan>
-    <tspan x="500" y="390" class="keyColor">LinkedIn</tspan>: <tspan class="valueColor">Rylen Anil</tspan>
-  </text>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1175px" height="620px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1175px" height="630px" fill="#161b22" rx="30"/> 
+<text x="390" y="30" fill="#e9e4dd"> 
+<tspan x="10" y="30">                         ░░░░   ▒▓▒░                              </tspan>
+<tspan x="10" y="50">                     ░░▒▒▓▓▓█████▓▓▒▓▓▒▓▓▒▒▒░                     </tspan>
+<tspan x="10" y="50">                  ░▓▓▓████▒▓██▓▒▒▓▓▓░███████▓▒▒                   </tspan>
+<tspan x="10" y="70">                 ░▒▒███████▓▓▓▒▓█▓█████████████▓▒                 </tspan>
+<tspan x="10" y="90">                 ▓▒▓▓████████████████████████▓▓▓▒                 </tspan>
+<tspan x="10" y="110">                 ▓▓▓▓▓▒▓████████▓▓▓█▓▒▒▓▓████▓▓▓▒                </tspan>
+<tspan x="10" y="130">                █▓█▓▓█████▓▓▓▒░░░▒▒▓▓▒▒▒▒▓██████▓                </tspan>
+<tspan x="10" y="150">                ▒▓███▒▓▓▒░ ░  ░ ░▒▒▒▒▒▒▒▒▒▓▓████▓                </tspan>
+<tspan x="10" y="170">                ░███░▒▓█▓▓▒  ░░░░░  ░ ░░   ░▒▓██▒                </tspan>
+<tspan x="10" y="190">                ▒██▓░▓▒▒▒▓█████████▓▓███████▒ ██▓                </tspan>
+<tspan x="10" y="210">                 ██▒░███▒░▓█████▓░███████▓▓▓▓░▓█                 </tspan>
+<tspan x="10" y="230">                ░██░░▒▓███████▓▒░ ░▓█████████▓▒██                </tspan>
+<tspan x="10" y="250">                 ░█▒     ░░   ░░░ ░░░░        ░█▓                </tspan>
+<tspan x="10" y="270">                 ░░▓▒▒░░░░░░▒░          ░░░░░▒▒█░                </tspan>
+<tspan x="10" y="290">                 ░░▓▒▒▒▒▒▒▒▒██████████░▒▒▒▒▓▓▓░                  </tspan>
+<tspan x="10" y="310">                    ▓▒▒▒▒░░  ░▒░▒███▓▓▓░░▒▒▓▓▓▓                  </tspan>
+<tspan x="10" y="330">                    ▒▓▓▒▒▒▒▒▒▓▓█▓▓▒▓▓▓▓▓█▓▓▓▓▒░                  </tspan>
+<tspan x="10" y="350">                     ▒▓▓▓█████▒  ░░░░▒▓███▓▒▒░                   </tspan>
+<tspan x="10" y="370">                      ▓▓▓▓▒▒▒██████████▓▓▒▓░                     </tspan>
+<tspan x="10" y="390">                    ██▓▓██▓▒░        ░░▒▒▒▒                      </tspan>
+<tspan x="10" y="410">               ░░░ ░░  ▒▓▓▓████████▓███▓▓▓██▓                    </tspan>
+<tspan x="10" y="430">            ░▒▓██▓▓▓▓░▓▓▒▒▓▓▓▓██████▓▓▓▒▒▒███▓▒▒▒▒▒              </tspan>
+<tspan x="10" y="450">     ░ ░▒▓▓▓▓▓▓█▓▓▓▓█▓▒▓█▓▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓██░▓███████▓▒░          </tspan>
+<tspan x="10" y="470">░░▒▓▓▓▓████▓▓▒██▓▓▓▓▓██▒▒████▓▒▒▓▓▓▓▓▓▓████▒▓███▓▓██████▓░       </tspan>
+<tspan x="10" y="490"> ▒▒▓▓▓▓█▓▓▓▓▓▓█▓▓██▓▓▓███▒░▒████▓▒▒▒▒▒▒▒▒▓▓░▓█████▓████████▓▓▓▒░ </tspan>
+<tspan x="10" y="510">░█████▓██▓▓▓███▓▓▓▓▓▓▓▓▓████▓█▓░▓█▒▓██▒██▓▓████████▓▓▓▓██████▓▓▓ </tspan>
+<tspan x="10" y="530">░███▓█▓▓▓▒▓█████▓▓▓▓▓▓▓▓▓▓▓████████▓██████████▓███████▓▓▓▓▓████▓ </tspan>
+<tspan x="10" y="550">░█████▓▓▓████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████████████▓▓▓█▓▓▓▓██▓▓▓▓▓███░</tspan>
+                                                  
+
+</text>
+
+<text x="430" y="30" fill="#c9d1d9">
+
+<tspan x="490" y="30">rylen@anil</tspan> -———————————————————————————————————————————-—-
+<tspan x="490" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................</tspan><tspan class="value">Arch Linux, IOS 16</tspan>
+<tspan x="490" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...............</tspan><tspan class="value" id="age_data">15 Years</tspan>
+<tspan x="490" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................</tspan><tspan class="value">UAE</tspan>
+<tspan x="490" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...............</tspan><tspan class="value">Dubai</tspan>
+<tspan x="490" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..................</tspan><tspan class="value">VSCode 1.96.0</tspan>
+<tspan x="490" y="150" class="cc">. </tspan>
+<tspan x="490" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .....</tspan><tspan class="value"> Python, JavaScript, C </tspan>
+<tspan x="490" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> .........</tspan><tspan class="value">HTML, TailWindCSS, JSON, React,</tspan>
+<tspan x="490" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .............</tspan><tspan class="value">English, Hindi, Malayalam</tspan>
+<tspan x="490" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Networking, Server Building, ESP-32 Projects </tspan>
+<tspan x="490" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ....</tspan><tspan class="value">Front end design, Ethical hacking, AI Generation</tspan>
+<tspan x="490" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="490" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .............</tspan><tspan class="value">rylen.anil@gmail.com</tspan>
+</text>
+
 </svg>
+
+
