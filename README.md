@@ -1,6 +1,9 @@
-<a href="https://github.com/rylena/rylena">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rylena/rylena/main/dark_mode.svg">
-    <img src="https://raw.githubusercontent.com/rylena/dark_mode.svg" alt="Your Project Logo" />
-  </picture>
+<a href="https://github.com/rylena">
+  <img src="https://raw.githubusercontent.com/rylena/rylena/main/dark_mode.svg?v=2" alt="Rylen Anil profile README">
 </a>
+
+<p align="center">
+  <a href="https://x.com/DarthKermi72747">@DarthKermi72747</a>
+  <a href="https://www.linkedin.com/in/rylen-anil-perumkannaril/">@rylen-anil-perumkannaril</a>
+  <span>@darth_kermit1</span>
+</p>
