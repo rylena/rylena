@@ -1,5 +1,5 @@
 <a href="https://github.com/rylena">
-  <img src="https://raw.githubusercontent.com/rylena/rylena/main/dark_mode.svg?v=2" alt="Rylen Anil profile README">
+  <img src="https://raw.githubusercontent.com/rylena/rylena/main/dark_mode.svg?v=3" alt="Rylen Anil profile README">
 </a>
 
 <p align="center">

@@ -288,8 +288,8 @@ def profile_rows(now: datetime) -> list[tuple[str, str]]:
     return [
         ("OS", "Debian, iOS"),
         ("Uptime", age_string(BIRTHDAY, today)),
-        ("Host", "AISC"),
-        ("Kernel", "Student / developer / security"),
+        ("Host", "C3iHub IIT Kanpur"),
+        ("Kernel", "Junior Cybersecurity Engineer"),
         ("IDE", "VSCode"),
         ("Languages.Programming", "Python, JavaScript, C"),
         ("Languages.Computer", "Markdown, JSON, React"),
